@@ -1,4 +1,5 @@
-# `$ whoami`
+# I'm C (not the language)
 
-My name is C, and I'm a web developer, indie game developer, and hobbyist programmer in general.
-I mostly do frontend web development with JavaScript/TypeScript, but I've created plenty of other cool things as well.
+Making useful software that's free and accessible to everyone is very important to me.
+
+c &#8226; python &#8226; javascript &#8226; typescript &#8226; rust (wip) &#8226; clojure (wip)
