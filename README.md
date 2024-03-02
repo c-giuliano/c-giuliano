@@ -1,1 +1,2 @@
-TypeScript, C, Python, Rust, ARM64
+|Svelte + TypeScript|C|Python|Rust|ARM64|
+|-|-|-|-|-|
